@@ -1,5 +1,5 @@
 //any year is entered through the keyboard . Write a function to determine whther th year is a leap year or not.
-/*  done by bhargab rudra kalita,roll no 32*/ 
+/*   bhargab rudra kalita,roll no 32*,25 sept */ 
 
 #include <stdio.h>
 
