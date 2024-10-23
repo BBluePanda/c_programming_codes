@@ -1,6 +1,6 @@
 //Nested Structure
-//22/10/24
-// Bharbar Rudra Kalita
+//22 october 24
+// Bhargab Rudra Kalita
 
 #include <stdio.h>
 #include <string.h>
