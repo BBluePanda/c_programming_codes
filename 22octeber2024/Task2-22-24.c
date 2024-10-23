@@ -1,5 +1,5 @@
 // Array of Structures
-//Bharbar Rudra Kalita
+//Bhargab Rudra Kalita
 //22/10/2024
 
 
