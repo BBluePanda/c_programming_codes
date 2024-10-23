@@ -1,6 +1,6 @@
 // Define and Initialize a structure
 //Bhargab Rudra Kalita
-//22/10/24
+//22 October 24
 
 #include<stdio.h>
 struct student 
