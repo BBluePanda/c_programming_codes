@@ -1,6 +1,6 @@
 // Array of Structures
 //Bhargab Rudra Kalita
-//22/10/2024
+//22 October 2024
 
 
 #include <stdio.h>
