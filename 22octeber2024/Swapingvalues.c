@@ -1,5 +1,5 @@
 //Bhargab Rudra Kalita
-//swap two values using pointers
+//swapping two values using pointers
 
 #include <stdio.h>
 #include<conio.h>
